@@ -1,2 +1,2 @@
 # patelhency06
-print("Practical exam OST")
+Practical exam OST
